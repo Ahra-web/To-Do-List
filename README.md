@@ -14,6 +14,6 @@
 
 ## 배포 사이트
 
-- [to-do-list-iota-peach-36.vercel.app](https://to-do-list-iota-peach-36.vercel.app)
+- [https://ahra-to-do-list.vercel.app](https://ahra-to-do-list.vercel.app)
 
 ---
